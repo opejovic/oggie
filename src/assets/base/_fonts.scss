@@ -1,0 +1,33 @@
+font-face {
+    font-family: 'CamptonBold';
+    src: local('CamptonBold'),
+      url('~@/assets/base/fonts/CamptonBold.woff2') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'CamptonBook';
+    src: local('CamptonBook'),
+      url('~@/assets/base/fonts/CamptonBook.woff2') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'CamptonBookItalic';
+    src: local('CamptonBookItalic'),
+      url('~@/assets/base/fonts/CamptonBookItalic.woff2') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'CamptonLight';
+    src: local('CamptonLight'),
+      url('~@/assets/base/fonts/CamptonLight.woff2') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'CamptonMedium';
+    src: local('CamptonMedium'),
+      url('~@/assets/base/fonts/CamptonMedium.woff2') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+  }
