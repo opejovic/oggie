@@ -1,5 +1,5 @@
 <template>
-  <div id="home" class="layout__grid" data-animate-in="fade">
+  <div id="home" class="layout__grid">
     <section class="home__left">
       <p class="home__copy">
         Helping people build quality web software, using cutting edge
@@ -14,248 +14,223 @@
     <section class="home__right">
       <div class="home__blob">
         <svg
-          id="home-svg"
-          width="496"
-          height="604"
-          viewBox="0 0 496 604"
+          width="386"
+          height="470"
+          viewBox="0 0 386 470"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
         >
           <circle
-            data-animate-in="fade"
             opacity="0.0416667"
-            cx="261.184"
-            cy="254.093"
-            r="174.537"
-            transform="rotate(-115 261.184 254.093)"
+            cx="203.259"
+            cy="197.741"
+            r="135.495"
+            transform="rotate(-115 203.259 197.741)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.0833333"
-            cx="274.708"
-            cy="263.557"
-            r="170.443"
-            transform="rotate(-110 274.708 263.557)"
+            cx="213.783"
+            cy="205.106"
+            r="132.309"
+            transform="rotate(-110 213.783 205.106)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.125"
-            cx="286.536"
-            cy="274.273"
-            r="166.349"
-            transform="rotate(-105 286.536 274.273)"
+            cx="222.99"
+            cy="213.446"
+            r="129.123"
+            transform="rotate(-105 222.99 213.446)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.166667"
-            cx="296.587"
-            cy="286.048"
-            r="162.255"
-            transform="rotate(-100 296.587 286.048)"
+            cx="230.81"
+            cy="222.609"
+            r="125.938"
+            transform="rotate(-100 230.81 222.609)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.208333"
-            cx="304.8"
-            cy="298.689"
-            r="158.161"
-            transform="rotate(-95 304.8 298.689)"
+            cx="237.202"
+            cy="232.446"
+            r="122.752"
+            transform="rotate(-95 237.202 232.446)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.25"
-            cx="311.135"
-            cy="311.996"
-            r="154.067"
-            transform="rotate(-90 311.135 311.996)"
+            cx="242.132"
+            cy="242.803"
+            r="119.566"
+            transform="rotate(-90 242.132 242.803)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.291667"
-            cx="315.572"
-            cy="325.774"
-            r="149.973"
-            transform="rotate(-85 315.572 325.774)"
+            cx="245.584"
+            cy="253.525"
+            r="116.38"
+            transform="rotate(-85 245.584 253.525)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.333333"
-            cx="318.113"
-            cy="339.827"
-            r="145.88"
-            transform="rotate(-80 318.113 339.827)"
+            cx="247.564"
+            cy="264.461"
+            r="113.194"
+            transform="rotate(-80 247.564 264.461)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.375"
-            cx="318.774"
-            cy="353.964"
-            r="141.786"
-            transform="rotate(-75 318.774 353.964)"
+            cx="248.077"
+            cy="275.462"
+            r="110.008"
+            transform="rotate(-75 248.077 275.462)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.416667"
-            cx="317.596"
-            cy="367.997"
-            r="137.692"
-            transform="rotate(-70 317.596 367.997)"
+            cx="247.162"
+            cy="286.383"
+            r="106.822"
+            transform="rotate(-70 247.162 286.383)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.458333"
-            cx="314.634"
-            cy="381.749"
-            r="133.598"
-            transform="rotate(-65 314.634 381.749)"
+            cx="244.855"
+            cy="297.086"
+            r="103.636"
+            transform="rotate(-65 244.855 297.086)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.5"
-            cx="309.96"
-            cy="395.049"
-            r="129.504"
-            transform="rotate(-60 309.96 395.049)"
+            cx="241.216"
+            cy="307.436"
+            r="100.45"
+            transform="rotate(-60 241.216 307.436)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.541667"
-            cx="303.662"
-            cy="407.74"
-            r="125.41"
-            transform="rotate(-55 303.662 407.74)"
+            cx="236.317"
+            cy="317.312"
+            r="97.264"
+            transform="rotate(-55 236.317 317.312)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.583333"
-            cx="295.844"
-            cy="419.674"
-            r="121.316"
-            transform="rotate(-50 295.844 419.674)"
+            cx="230.234"
+            cy="326.599"
+            r="94.0782"
+            transform="rotate(-50 230.234 326.599)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.625"
-            cx="286.622"
-            cy="430.718"
-            r="117.222"
-            transform="rotate(-45 286.622 430.718)"
+            cx="223.056"
+            cy="335.194"
+            r="90.8924"
+            transform="rotate(-45 223.056 335.194)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.666667"
-            cx="276.122"
-            cy="440.753"
-            r="113.129"
-            transform="rotate(-40 276.122 440.753)"
+            cx="214.883"
+            cy="343.004"
+            r="87.7064"
+            transform="rotate(-40 214.883 343.004)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.708333"
-            cx="264.48"
-            cy="449.675"
-            r="109.035"
-            transform="rotate(-35 264.48 449.675)"
+            cx="205.823"
+            cy="349.948"
+            r="84.5203"
+            transform="rotate(-35 205.823 349.948)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.75"
-            cx="251.842"
-            cy="457.397"
-            r="104.941"
-            transform="rotate(-30 251.842 457.397)"
+            cx="195.99"
+            cy="355.956"
+            r="81.3344"
+            transform="rotate(-30 195.99 355.956)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.791667"
-            cx="238.359"
-            cy="463.847"
-            r="100.847"
-            transform="rotate(-25 238.359 463.847)"
+            cx="185.497"
+            cy="360.976"
+            r="78.1484"
+            transform="rotate(-25 185.497 360.976)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.833333"
-            cx="224.186"
-            cy="468.972"
-            r="96.7531"
-            transform="rotate(-20 224.186 468.972)"
+            cx="174.466"
+            cy="364.964"
+            r="74.9626"
+            transform="rotate(-20 174.466 364.964)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.875"
-            cx="209.481"
-            cy="472.736"
-            r="92.6592"
-            transform="rotate(-15 209.481 472.736)"
+            cx="163.021"
+            cy="367.894"
+            r="71.7767"
+            transform="rotate(-15 163.021 367.894)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.916667"
-            cx="194.402"
-            cy="475.119"
-            r="88.5653"
-            transform="rotate(-10 194.402 475.119)"
+            cx="151.287"
+            cy="369.748"
+            r="68.5908"
+            transform="rotate(-10 151.287 369.748)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
             opacity="0.958333"
-            cx="179.109"
-            cy="476.119"
-            r="84.4714"
-            transform="rotate(-5 179.109 476.119)"
+            cx="139.386"
+            cy="370.526"
+            r="65.4047"
+            transform="rotate(-5 139.386 370.526)"
             stroke="#9A66FF"
             stroke-width="3"
           />
           <circle
-            data-animate-in="fade"
-            cx="163.755"
-            cy="475.751"
-            r="80.3775"
+            cx="127.44"
+            cy="370.24"
+            r="62.2188"
             stroke="#9A66FF"
             stroke-width="3"
           />
@@ -266,159 +241,8 @@
 </template>
 
 <script>
-// @ is an alias to /src
-// import HelloWorld from "@/components/HelloWorld.vue";
-
 export default {
   name: "Home",
   components: {},
-
-  mounted() {
-    const svg = document.getElementById("home-svg");
-    const children = svg?.children;
-
-    setTimeout(() => {
-      const home = document.getElementById("home");
-      home.classList.add("in-view");
-    });
-
-    // let length = children?.length;
-
-    setTimeout(() => {
-      children[0].classList.add("in-view-svgs");
-      children[0].style.opacity = children[0].attributes.opacity.nodeValue;
-    }, 500);
-
-    setTimeout(() => {
-      children[1].classList.add("in-view-svgs");
-      children[1].style.opacity = children[1].attributes.opacity.nodeValue;
-    }, 600);
-
-    setTimeout(() => {
-      children[2].classList.add("in-view-svgs");
-      children[2].style.opacity = children[2].attributes.opacity.nodeValue;
-    }, 700);
-
-    setTimeout(() => {
-      children[3].classList.add("in-view-svgs");
-      children[3].style.opacity = children[3].attributes.opacity.nodeValue;
-    }, 800);
-
-    setTimeout(() => {
-      children[4].classList.add("in-view-svgs");
-      children[4].style.opacity = children[4].attributes.opacity.nodeValue;
-    }, 900);
-
-    setTimeout(() => {
-      children[5].classList.add("in-view-svgs");
-      children[5].style.opacity = children[5].attributes.opacity.nodeValue;
-    }, 1000);
-
-    setTimeout(() => {
-      children[6].classList.add("in-view-svgs");
-      children[6].style.opacity = children[6].attributes.opacity.nodeValue;
-    }, 1100);
-
-    setTimeout(() => {
-      children[7].classList.add("in-view-svgs");
-      children[7].style.opacity = children[7].attributes.opacity.nodeValue;
-    }, 1200);
-
-    setTimeout(() => {
-      children[8].classList.add("in-view-svgs");
-      children[8].style.opacity = children[8].attributes.opacity.nodeValue;
-    }, 1300);
-
-    setTimeout(() => {
-      children[9].classList.add("in-view-svgs");
-      children[9].style.opacity = children[9].attributes.opacity.nodeValue;
-    }, 1400);
-
-    setTimeout(() => {
-      children[10].classList.add("in-view-svgs");
-      children[10].style.opacity = children[10].attributes.opacity.nodeValue;
-    }, 1500);
-    setTimeout(() => {
-      children[11].classList.add("in-view-svgs");
-      children[11].style.opacity = children[11].attributes.opacity.nodeValue;
-    }, 1600);
-    setTimeout(() => {
-      children[12].classList.add("in-view-svgs");
-      children[12].style.opacity = children[12].attributes.opacity.nodeValue;
-    }, 1700);
-    setTimeout(() => {
-      children[13].classList.add("in-view-svgs");
-      children[13].style.opacity = children[13].attributes.opacity.nodeValue;
-    }, 1800);
-    setTimeout(() => {
-      children[14].classList.add("in-view-svgs");
-      children[14].style.opacity = children[14].attributes.opacity.nodeValue;
-    }, 1900);
-    setTimeout(() => {
-      children[15].classList.add("in-view-svgs");
-      children[15].style.opacity = children[15].attributes.opacity.nodeValue;
-    }, 2000);
-    setTimeout(() => {
-      children[16].classList.add("in-view-svgs");
-      children[16].style.opacity = children[16].attributes.opacity.nodeValue;
-    }, 2100);
-    setTimeout(() => {
-      children[17].classList.add("in-view-svgs");
-      children[17].style.opacity = children[17].attributes.opacity.nodeValue;
-    }, 2200);
-    setTimeout(() => {
-      children[18].classList.add("in-view-svgs");
-      children[18].style.opacity = children[18].attributes.opacity.nodeValue;
-    }, 2300);
-    setTimeout(() => {
-      children[19].classList.add("in-view-svgs");
-      children[19].style.opacity = children[19].attributes.opacity.nodeValue;
-    }, 2400);
-    setTimeout(() => {
-      children[20].classList.add("in-view-svgs");
-      children[20].style.opacity = children[20].attributes.opacity.nodeValue;
-    }, 2500);
-    setTimeout(() => {
-      children[21].classList.add("in-view-svgs");
-      children[21].style.opacity = children[21].attributes.opacity.nodeValue;
-    }, 2600);
-    setTimeout(() => {
-      children[22].classList.add("in-view-svgs");
-      children[22].style.opacity = children[22].attributes.opacity.nodeValue;
-    }, 2700);
-    setTimeout(() => {
-      children[23].classList.add("in-view-svgs");
-      children[23].style.opacity = 1;
-    }, 2800);
-
-
-    // setInterval(() => {
-    //   children[23].style.transform = 'scale(2)';
-    //   // children[23].style.opacity = children[23].attributes.opacity.nodeValue;
-    // }, 5000);
-
-    // for (let circle of children) {
-    //   setTimeout(() => {
-    //     circle.
-    //   }, 300);
-    // }
-
-    // setTimeout(() => {
-    //   const text = document.getElementById('animateFirst')
-    //   text.classList.add('in-view')
-    //   const mobileText = document.getElementById('animateFirstMobile')
-    //   mobileText.classList.add('in-view')
-    // }, 300)
-
-    // setTimeout(() => {
-    //   const text = document.getElementById('animateSecond')
-    //   text.classList.add('in-view')
-    // }, 500)
-
-    // setTimeout(() => {
-    //   const sayHello = document.getElementById('animateThird')
-    //   sayHello.classList.add('in-view')
-    // }, 700)
-  },
 };
 </script>

@@ -1,5 +1,5 @@
 <template>
-  <div class="layout__grid">
+  <div id="about" class="layout__grid">
     <section class="about__left">
       <p class="about__copy">
         I’m a freelancer specialising in website development, digital design, UX
@@ -84,3 +84,10 @@
     </section>
   </div>
 </template>
+
+<script>
+export default {
+  name: "About",
+  components: {},
+};
+</script>
