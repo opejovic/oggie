@@ -9,14 +9,28 @@
     </div>
 
     <button class="navigation__theme_toggler" @click="toggleTheme">
-
-<svg class="navigation__theme_toggler_icon" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.75" y="0.75" width="38.5" height="38.5" rx="19.25" stroke="currentColor" stroke-width="1"/>
-<path d="M27 12C26.4477 12 26 11.5523 26 11V11C26 10.45 25.55 10 25 10H13C12.45 10 12 10.45 12 11V15C12 15.55 12.45 16 13 16H25C25.55 16 26 15.55 26 15V14.5C26 14.2239 26.2239 14 26.5 14V14C26.7761 14 27 14.2239 27 14.5V16C27 17.1046 26.1046 18 25 18H22C19.2386 18 17 20.2386 17 23V29C17 29.55 17.45 30 18 30H20C20.55 30 21 29.55 21 29V24C21 21.7909 22.7909 20 25 20V20C27.2091 20 29 18.2091 29 16V13.5C29 12.6716 28.3284 12 27.5 12H27Z" fill="currentColor"/>
-</svg>
-
-
-
+      <svg
+        class="navigation__theme_toggler_icon"
+        width="40"
+        height="40"
+        viewBox="0 0 40 40"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <rect
+          x="0.75"
+          y="0.75"
+          width="38.5"
+          height="38.5"
+          rx="19.25"
+          stroke="currentColor"
+          stroke-width="1"
+        />
+        <path
+          d="M27 12C26.4477 12 26 11.5523 26 11V11C26 10.45 25.55 10 25 10H13C12.45 10 12 10.45 12 11V15C12 15.55 12.45 16 13 16H25C25.55 16 26 15.55 26 15V14.5C26 14.2239 26.2239 14 26.5 14V14C26.7761 14 27 14.2239 27 14.5V16C27 17.1046 26.1046 18 25 18H22C19.2386 18 17 20.2386 17 23V29C17 29.55 17.45 30 18 30H20C20.55 30 21 29.55 21 29V24C21 21.7909 22.7909 20 25 20V20C27.2091 20 29 18.2091 29 16V13.5C29 12.6716 28.3284 12 27.5 12H27Z"
+          fill="currentColor"
+        />
+      </svg>
     </button>
   </header>
 
@@ -137,7 +151,7 @@ export default {
 
   methods: {
     toggleTheme() {
-      document.body.classList.add('color-transition');
+      document.body.classList.add("color-transition");
       if (this.theme === "dark") {
         this.theme = "light";
         document.body.setAttribute("data-theme", "light");
