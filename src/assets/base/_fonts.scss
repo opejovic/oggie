@@ -1,28 +1,39 @@
 font-face {
-    font-family: 'CamptonBold';
-    src: url('~@/assets/base/fonts/CamptonBold.woff2') format('woff2');
+    font-family: 'Campton';
+    src: local('Campton'),
+      url('~@/assets/base/fonts/Campton-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
   }
   
   @font-face {
-    font-family: 'CamptonBook';
-    src: url('~@/assets/base/fonts/CamptonBook.woff2') format('woff2');
+    font-family: 'Campton';
+    src: local('Campton'),
+      url('~@/assets/base/fonts/Campton-Book.otf') format('opentype');
     font-weight: 400;
     font-style: normal;
   }
   
   @font-face {
-    font-family: 'CamptonBookItalic';
-    src: url('~@/assets/base/fonts/CamptonBookItalic.woff2') format('woff2');
+    font-family: 'Campton';
+    src: local('Campton'),
+      url('~@/assets/base/fonts/Campton-BookItalic.otf') format('opentype');
+      font-weight: 400;
+      font-style: italic;
   }
   
   @font-face {
-    font-family: 'CamptonLight';
-    src: url('~@/assets/base/fonts/CamptonLight.woff2') format('woff2');
+    font-family: 'Campton';
+    src: local('Campton'),
+      url('~@/assets/base/fonts/Campton-Light.otf') format('opentype');
+      font-weight: 300;
+      font-style: normal;
   }
   
   @font-face {
-    font-family: 'CamptonMedium';
-    src: url('~@/assets/base/fonts/CamptonMedium.woff2') format('woff2');
-    font-weight: 600;
+    font-family: 'Campton';
+    src: local('Campton'),
+      url('~@/assets/base/fonts/Campton-Medium.otf') format('opentype');
+    font-weight: 500;
     font-style: normal;
   }
