@@ -6,235 +6,40 @@
         technologies.
       </p>
 
+    </section>
       <router-link to="/about" class="home__cta"
         >Read more about me</router-link
       >
-    </section>
 
     <section class="home__right">
       <div class="home__blob">
-        <svg
-          width="386"
-          height="470"
-          viewBox="0 0 386 470"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <circle
-            opacity="0.0416667"
-            cx="203.259"
-            cy="197.741"
-            r="135.495"
-            transform="rotate(-115 203.259 197.741)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.0833333"
-            cx="213.783"
-            cy="205.106"
-            r="132.309"
-            transform="rotate(-110 213.783 205.106)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.125"
-            cx="222.99"
-            cy="213.446"
-            r="129.123"
-            transform="rotate(-105 222.99 213.446)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.166667"
-            cx="230.81"
-            cy="222.609"
-            r="125.938"
-            transform="rotate(-100 230.81 222.609)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.208333"
-            cx="237.202"
-            cy="232.446"
-            r="122.752"
-            transform="rotate(-95 237.202 232.446)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.25"
-            cx="242.132"
-            cy="242.803"
-            r="119.566"
-            transform="rotate(-90 242.132 242.803)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.291667"
-            cx="245.584"
-            cy="253.525"
-            r="116.38"
-            transform="rotate(-85 245.584 253.525)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.333333"
-            cx="247.564"
-            cy="264.461"
-            r="113.194"
-            transform="rotate(-80 247.564 264.461)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.375"
-            cx="248.077"
-            cy="275.462"
-            r="110.008"
-            transform="rotate(-75 248.077 275.462)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.416667"
-            cx="247.162"
-            cy="286.383"
-            r="106.822"
-            transform="rotate(-70 247.162 286.383)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.458333"
-            cx="244.855"
-            cy="297.086"
-            r="103.636"
-            transform="rotate(-65 244.855 297.086)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.5"
-            cx="241.216"
-            cy="307.436"
-            r="100.45"
-            transform="rotate(-60 241.216 307.436)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.541667"
-            cx="236.317"
-            cy="317.312"
-            r="97.264"
-            transform="rotate(-55 236.317 317.312)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.583333"
-            cx="230.234"
-            cy="326.599"
-            r="94.0782"
-            transform="rotate(-50 230.234 326.599)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.625"
-            cx="223.056"
-            cy="335.194"
-            r="90.8924"
-            transform="rotate(-45 223.056 335.194)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.666667"
-            cx="214.883"
-            cy="343.004"
-            r="87.7064"
-            transform="rotate(-40 214.883 343.004)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.708333"
-            cx="205.823"
-            cy="349.948"
-            r="84.5203"
-            transform="rotate(-35 205.823 349.948)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.75"
-            cx="195.99"
-            cy="355.956"
-            r="81.3344"
-            transform="rotate(-30 195.99 355.956)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.791667"
-            cx="185.497"
-            cy="360.976"
-            r="78.1484"
-            transform="rotate(-25 185.497 360.976)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.833333"
-            cx="174.466"
-            cy="364.964"
-            r="74.9626"
-            transform="rotate(-20 174.466 364.964)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.875"
-            cx="163.021"
-            cy="367.894"
-            r="71.7767"
-            transform="rotate(-15 163.021 367.894)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.916667"
-            cx="151.287"
-            cy="369.748"
-            r="68.5908"
-            transform="rotate(-10 151.287 369.748)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            opacity="0.958333"
-            cx="139.386"
-            cy="370.526"
-            r="65.4047"
-            transform="rotate(-5 139.386 370.526)"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-          <circle
-            cx="127.44"
-            cy="370.24"
-            r="62.2188"
-            stroke="#9A66FF"
-            stroke-width="3"
-          />
-        </svg>
+        <svg width="475" height="579" viewBox="0 0 475 579" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.0416667" cx="250.124" cy="243.333" r="167.082" transform="rotate(-115 250.124 243.333)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.0833333" cx="263.076" cy="252.397" r="163.162" transform="rotate(-110 263.076 252.397)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.125" cx="274.405" cy="262.659" r="159.241" transform="rotate(-105 274.405 262.659)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.166667" cx="284.028" cy="273.935" r="155.321" transform="rotate(-100 284.028 273.935)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.208333" cx="291.894" cy="286.041" r="151.4" transform="rotate(-95 291.894 286.041)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.25" cx="297.961" cy="298.785" r="147.48" transform="rotate(-90 297.961 298.785)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.291667" cx="302.209" cy="311.979" r="143.559" transform="rotate(-85 302.209 311.979)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.333333" cx="304.645" cy="325.437" r="139.639" transform="rotate(-80 304.645 325.437)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.375" cx="305.276" cy="338.975" r="135.718" transform="rotate(-75 305.276 338.975)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.416667" cx="304.151" cy="352.414" r="131.798" transform="rotate(-70 304.151 352.414)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.458333" cx="301.311" cy="365.584" r="127.877" transform="rotate(-65 301.311 365.584)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.5" cx="296.833" cy="378.32" r="123.957" transform="rotate(-60 296.833 378.32)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.541667" cx="290.805" cy="390.474" r="120.036" transform="rotate(-55 290.805 390.474)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.583333" cx="283.319" cy="401.902" r="116.116" transform="rotate(-50 283.319 401.902)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.625" cx="274.486" cy="412.479" r="112.195" transform="rotate(-45 274.486 412.479)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.666667" cx="264.429" cy="422.089" r="108.275" transform="rotate(-40 264.429 422.089)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.708333" cx="253.279" cy="430.634" r="104.354" transform="rotate(-35 253.279 430.634)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.75" cx="241.18" cy="438.029" r="100.433" transform="rotate(-30 241.18 438.029)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.791667" cx="228.267" cy="444.205" r="96.5129" transform="rotate(-25 228.267 444.205)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.833333" cx="214.693" cy="449.113" r="92.5925" transform="rotate(-20 214.693 449.113)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.875" cx="200.609" cy="452.718" r="88.672" transform="rotate(-15 200.609 452.718)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.916667" cx="186.169" cy="455" r="84.7515" transform="rotate(-10 186.169 455)" stroke="currentColor" stroke-width="3"/>
+<circle opacity="0.958333" cx="171.525" cy="455.957" r="80.8308" transform="rotate(-5 171.525 455.957)" stroke="currentColor" stroke-width="3"/>
+<circle cx="156.824" cy="455.606" r="76.9104" stroke="currentColor" stroke-width="3"/>
+</svg>
+
       </div>
     </section>
   </div>
