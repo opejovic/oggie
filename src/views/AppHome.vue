@@ -24,7 +24,7 @@
             r="167.082"
             transform="rotate(-115 250.124 243.333)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.0833333"
@@ -33,7 +33,7 @@
             r="163.162"
             transform="rotate(-110 263.076 252.397)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.125"
@@ -42,7 +42,7 @@
             r="159.241"
             transform="rotate(-105 274.405 262.659)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.166667"
@@ -51,7 +51,7 @@
             r="155.321"
             transform="rotate(-100 284.028 273.935)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.208333"
@@ -60,7 +60,7 @@
             r="151.4"
             transform="rotate(-95 291.894 286.041)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.25"
@@ -69,7 +69,7 @@
             r="147.48"
             transform="rotate(-90 297.961 298.785)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.291667"
@@ -78,7 +78,7 @@
             r="143.559"
             transform="rotate(-85 302.209 311.979)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.333333"
@@ -87,7 +87,7 @@
             r="139.639"
             transform="rotate(-80 304.645 325.437)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.375"
@@ -96,7 +96,7 @@
             r="135.718"
             transform="rotate(-75 305.276 338.975)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.416667"
@@ -105,7 +105,7 @@
             r="131.798"
             transform="rotate(-70 304.151 352.414)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.458333"
@@ -114,7 +114,7 @@
             r="127.877"
             transform="rotate(-65 301.311 365.584)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.5"
@@ -123,7 +123,7 @@
             r="123.957"
             transform="rotate(-60 296.833 378.32)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.541667"
@@ -132,7 +132,7 @@
             r="120.036"
             transform="rotate(-55 290.805 390.474)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.583333"
@@ -141,7 +141,7 @@
             r="116.116"
             transform="rotate(-50 283.319 401.902)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.625"
@@ -150,7 +150,7 @@
             r="112.195"
             transform="rotate(-45 274.486 412.479)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.666667"
@@ -159,7 +159,7 @@
             r="108.275"
             transform="rotate(-40 264.429 422.089)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.708333"
@@ -168,7 +168,7 @@
             r="104.354"
             transform="rotate(-35 253.279 430.634)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.75"
@@ -177,7 +177,7 @@
             r="100.433"
             transform="rotate(-30 241.18 438.029)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.791667"
@@ -186,7 +186,7 @@
             r="96.5129"
             transform="rotate(-25 228.267 444.205)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.833333"
@@ -195,7 +195,7 @@
             r="92.5925"
             transform="rotate(-20 214.693 449.113)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.875"
@@ -204,7 +204,7 @@
             r="88.672"
             transform="rotate(-15 200.609 452.718)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.916667"
@@ -213,7 +213,7 @@
             r="84.7515"
             transform="rotate(-10 186.169 455)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             opacity="0.958333"
@@ -222,14 +222,14 @@
             r="80.8308"
             transform="rotate(-5 171.525 455.957)"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
           <circle
             cx="156.824"
             cy="455.606"
             r="76.9104"
             stroke="currentColor"
-            stroke-width="3"
+            stroke-width="2"
           />
         </svg>
       </div>
