@@ -133,7 +133,8 @@ h1 {
   }
 
   .router-link-active {
-    border-bottom: 1px solid;
+    opacity: .2;
+    pointer-events: none;
   }
 }
 
@@ -144,7 +145,8 @@ h1 {
 
 
   .router-link-active {
-    border-bottom: 1px solid;
+    opacity: .2;
+    pointer-events: none;
   }
   
   @media only screen and (max-width: 1024px) {
