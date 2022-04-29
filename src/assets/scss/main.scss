@@ -26,7 +26,7 @@ body[data-theme*='light'] {
   .navigation__theme_toggler,
   .home__blob,
   .about__graphic,
-  .footer__socials {
+  .footer__socials a {
     color: var(--dark-gray);
   }
 
@@ -113,7 +113,7 @@ h1 {
 
 .navigation__link {
   font-style: normal;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 14px;
   line-height: 16px;
 
@@ -121,14 +121,35 @@ h1 {
   text-decoration: none;
 }
 
-.navigation__about {
-  grid-column-start: 10;
+.navigation__home {
+  grid-column-start: 9;
   grid-column-end: span 1;
   margin-left: auto;
 
   @media only screen and (max-width: 1024px) {
     grid-column-start: 2;
-    grid-column-end: span 5;
+    grid-column-end: span 1;
+    margin-left: unset;
+  }
+
+  .router-link-active {
+    border-bottom: 1px solid;
+  }
+}
+
+.navigation__about {
+  grid-column-start: 10;
+  grid-column-end: span 1;
+  margin-left: auto;
+
+
+  .router-link-active {
+    border-bottom: 1px solid;
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    grid-column-start: 3;
+    grid-column-end: span 1;
     margin-left: unset;
   }
 }
@@ -247,6 +268,10 @@ h1 {
     grid-column-end: span 10;
     margin-bottom: 1.4rem;
   }
+
+  a {
+    color: inherit;
+  }
 }
 
 .footer__email {
@@ -255,7 +280,7 @@ h1 {
   margin-left: auto;
   .email__link {
     font-style: normal;
-    font-weight: normal;
+    font-weight: 500;
     font-size: 14px;
     line-height: 157.5%;
     /* identical to box height, or 22px */
